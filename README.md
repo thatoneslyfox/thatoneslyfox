@@ -10,8 +10,8 @@
   </p>
   
   <p>
-    <a href="https://instagram.com/nonvezzz">
-      <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=INSTAGRAM&message=@NONVEZZZ&logoColor=102238&colorA=191001&colorB=f69628"/>
+    <a href="https://instagram.com/thatoneslyfox">
+      <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=INSTAGRAM&message=@SLYFOX&logoColor=102238&colorA=191001&colorB=f69628"/>
     </a>
   </p>
 </div>

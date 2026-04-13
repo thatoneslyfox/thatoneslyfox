@@ -6,7 +6,7 @@
   <p>
     Sleeping foxes in the wild typically indicate<br>
     that they feel safe and secure in their environment,<br>
-    often choosing spots with good cover.
+    and they do it by often choosing spots with good cover and moderate warmth.
   </p>
   
   <p>

@@ -4,9 +4,9 @@
   <h3 style="margin-bottom: -1; height: 2px; width: 2px; border: none;">My holy Britannian Empire</h3>
   <hr align="left" style="height: 1px; border: none; background-color: #844717; margin-top: 5px; margin-bottom: 15px;">
   <p>
-    Is powerlessness a crime ?<br>
-    even if it is, having mercy upon who deserves it,<br>
-    maybe isnt wrong
+    ari<br>
+    is powerlesness a crime?<br>
+    i love a vampire tho
   </p>
   
   <p>

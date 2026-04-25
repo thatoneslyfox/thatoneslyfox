@@ -1,4 +1,4 @@
-<img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/05/CC-and-Lelouch-Code-Geass-Cropped.jpg" align="left" height="350" style="margin-right: 20px;">
+<img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/05/CC-and-Lelouch-Code-Geass-Cropped.jpg" align="left" height="350" width="630" style="margin-right: 20px;">
 <br>
 <div style="overflow: hidden;">
   <h3 style="margin-bottom: -1; height: 2px; width: 2px; border: none;">My C.C</h3>

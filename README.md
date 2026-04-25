@@ -5,8 +5,7 @@
   <hr align="left" style="height: 1px; border: none; background-color: #844717; margin-top: 5px; margin-bottom: 15px;">
   <p>
     ari, 
-    is powerlesness a crime?<br>
-    i love a vampire tho
+    i love a vampire
   </p>
   
   <p>

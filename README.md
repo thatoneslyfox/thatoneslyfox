@@ -5,7 +5,7 @@
   <hr align="left" style="height: 1px; border: none; background-color: #844717; margin-top: 5px; margin-bottom: 15px;">
   <p>
     Ari<br>
-    She's Litreally C.C<br>
-    in love with a vampire
+    She's Litreally C.C<br><br>
+    i'm in love with a vampire
   </p>
 </div>
